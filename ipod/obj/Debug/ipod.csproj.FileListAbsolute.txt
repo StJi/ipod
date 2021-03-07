@@ -1,0 +1,10 @@
+C:\Users\denpr\source\repos\ipod\ipod\bin\Debug\ipod.exe.config
+C:\Users\denpr\source\repos\ipod\ipod\bin\Debug\ipod.exe
+C:\Users\denpr\source\repos\ipod\ipod\bin\Debug\ipod.pdb
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.csprojAssemblyReference.cache
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.Form1.resources
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.Properties.Resources.resources
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.csproj.GenerateResource.cache
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.csproj.CoreCompileInputs.cache
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.exe
+C:\Users\denpr\source\repos\ipod\ipod\obj\Debug\ipod.pdb
